@@ -1,0 +1,151 @@
+.navbar, .navbar-default, .navbar-fixed-top {
+ -webkit-transition: all 0.3s ease;
+ -moz-transition: all 0.3s ease;
+ -o-transition: all 0.3s ease;
+ color: transparent;
+ text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+#header {width:300px;}
+
+.row {
+    position: relative;
+    margin: 60px 20%;
+}
+
+.thumbnail1{
+    background-color: #D6BB49;
+}
+
+.thumbnail2{
+    background-color: #EFD9FF;
+}
+.thumbnail3{
+    background-color: #E88124;
+}
+.thumbnail4{
+    background-color: #98CCF7;
+}
+.thumbnail5{
+    background-color: #EB4D12;
+}
+.thumbnail6{
+    background-color: #579251;
+}
+.thumbnail7{
+    background-color: #FFBDBD;
+}
+.thumbnail8{
+    background-color: #FFDC99;
+}
+.thumbnail_9{
+    background-color: #DCFFD2;
+}
+
+body { 
+    
+   }
+    .text {
+    margin-top: 100px ; 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 70px;
+    padding: 10px; 
+   
+   }
+
+   .text1 {
+    margin-top: 100px ; 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 70px;
+    background: #D6BB49; 
+    padding: 10px; 
+   
+   }
+   .text2 {
+    margin-top: 100px ; 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 70px;
+    background: #EFD9FF; 
+    padding: 10px; 
+   
+   }
+
+   .text3 {
+    margin-top: 100px ; 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 70px;
+    background: #E88124; 
+    padding: 10px; 
+   
+   }
+
+   .text4 {
+    margin-top: 100px ; 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 70px;
+    background: #98CCF7; 
+    padding: 10px; 
+   
+   }
+
+   .text5 {
+    margin-top: 100px ; 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 70px;
+    background: #EB4D12; 
+    padding: 10px; 
+   
+   }
+
+   .text6 {
+    margin-top: 100px ; 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 70px;
+    background: #579251; 
+    padding: 10px; 
+   
+   }
+
+   .text7 {
+    margin-top: 100px ; 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 70px;
+    background: #FFBDBD; 
+    padding: 10px; 
+   
+   }
+
+   .text8 {
+    margin-top: 100px ; 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 70px;
+    background: #FFDC99; 
+    padding: 10px; 
+   
+   }
+
+   .text9 {
+    margin-top: 100px ; 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 70px;
+    background: #DCFFD2; 
+    padding: 10px; 
+   
+   }
+
+
+
+
+
+
+
+
